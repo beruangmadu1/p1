@@ -46,5 +46,5 @@ class Data:
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
  • Source Code: <a href='https://t.me/itsmeseaann'>seaannn</a>
 
-👨‍💻 Develoved by <a href='https://t.me/itsmeseaann'>seaannn</a>
+👨‍💻 Develoved by <a href='https://t.me/itsmeseaann'>seaannn</a></b>
 """
