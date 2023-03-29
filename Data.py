@@ -30,7 +30,7 @@ class Data:
         [InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")]
     ]
 
-    buttons = [
+    mbuttons = [
         [
             InlineKeyboardButton("ᴛᴇɴᴛᴀɴɢ ꜱᴀʏᴀ", callback_data="ABOUT"),
             InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
