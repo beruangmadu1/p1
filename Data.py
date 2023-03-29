@@ -30,12 +30,6 @@ class Data:
         [InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")]
     ]
 
-    mbuttons = [
-        [
-            InlineKeyboardButton("ᴛᴇɴᴛᴀɴɢ ꜱᴀʏᴀ", callback_data="ABOUT"),
-            InlineKeyboardButton("ᴛᴜᴛᴜᴘ", callback_data="close")
-        ],
-    ]
 
     ABOUT = """
 <b>Tentang Bot ini:
